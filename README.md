@@ -1,5 +1,8 @@
 # A02
-PART 1: Directions on Using Github: 
+PART 1: Directions on Using Github with VS Code:
+
+Create an account on Github: https://github.com/signup?source=header-home 
+
 
 
 Part 2: Glossary:

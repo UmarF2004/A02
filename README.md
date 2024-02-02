@@ -1,5 +1,5 @@
 # A02
-PART 1: Directions on Using Github:
+PART 1: Directions on Using Github: 
 
 
 Part 2: Glossary:

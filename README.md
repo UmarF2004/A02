@@ -22,7 +22,7 @@ You can open a repsitory in VS Code by selecting "Open Repository" in the GitHub
 You can now start using Github with VS Code
 </ol>
 
-
+<br><br>
   Github:
 
   **GitHub** is a **remote** reference to **GIT**, a software that allows multiple users to work on the same file and allows team members to view changes made by others in real time. 
@@ -38,10 +38,7 @@ You can now start using Github with VS Code
 </ol>   
 However, if you are working with other team members, you must be aware of **merge conflicts**. If a conflict arises, Git will mark it as a conflicted file and you and your team         memebrs must resolve the conflict yourselves. 
   
-
-    
-
-
+<br><br>
 
 
 Part 2: **Glossary**:

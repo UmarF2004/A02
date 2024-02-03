@@ -27,16 +27,16 @@ You can now start using Github with VS Code
 
   **GitHub** is a **remote** reference to **GIT**, a software that allows multiple users to work on the same file and allows team members to view changes made by others in real time. 
 <ol> 
-<li>Once you have signed up to Github, you can create a **repository**. It is more like a folder where you can add files and make them live web pages that can be pulled up online using     URLs.</li>
+<li>Once you have signed up to Github, you can create a <b>repository</b>. It is more like a folder where you can add files and make them live web pages that can be pulled up online using     URLs.</li>
 <br>
-<li>You can **push** files in the repository by clicking the 'add file' button in the repository. You can either create a new file or push an exisiting file from your device.</li> 
+<li>You can <b>push</b> files in the repository by clicking the 'add file' button in the repository. You can either create a new file or push an exisiting file from your device.</li> 
 <br>
-<li>After changing, modifying or adding content to your file, before exiting, you must **commit** changes using the 'commit changes' button. Changes not *committed* will be lost</li>
+<li>After changing, modifying or adding content to your file, before exiting, you must <b>commit</b> changes using the 'commit changes' button. Changes not <i>committed</i> will be lost</li>
 <br>
-<li>After you have created and saved files in your repository, you can **pull, fetch, and merge** files.</li> 
+<li>After you have created and saved files in your repository, you can <b>pull, fetch, and merge</b> files.</li> 
 <br>
 </ol>   
-However, if you are working with other team members, you must be aware of **merge conflicts**. If a conflict arises, Git will mark it as a conflicted file and you and your team         memebrs must resolve the conflict yourselves. 
+However, if you are working with other team members, you must be aware of <b>merge conflicts</b>. If a conflict arises, Git will mark it as a conflicted file and you and your team         memebrs must resolve the conflict yourselves. 
   
 <br><br>
 

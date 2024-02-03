@@ -7,11 +7,17 @@ Github with VS Code:
 Create an account on Github: you can use this link to do so https://github.com/signup?source=header-home 
 <br> 
 Install Git on your computer: you can use this link to do so https://git-scm.com/downloads 
+<br>
 Open VS Code
+<br>
 Search for Extension: You can do so by clicking Cntrl+Shift+X and searching for Github (for me it wasn't loading yet)
+<br>
 When Github extension installed, sign in to your account
+<br>
 Once signed in, you can **clone** repositories from GitHub by clicking on the "Clone Repository" button in the GitHub pane
+<br>
 You can open a repsitory in VS Code by selecting "Open Repository" in the GitHub pane 
+<br>
 You can now start using Github with VS Code
   
 

@@ -42,6 +42,7 @@ However, if you are working with other team members, you must be aware of **merg
 
 
 Part 2: **Glossary**:
+<br><br>
  **Branch** allows you to work on different features, fixes, or experiments without affecting the main codebase. 
   <br><br>
   **Clone** copy of a target repository

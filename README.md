@@ -5,6 +5,7 @@ PART 1:
 Github with VS Code:
 
 Create an account on Github: you can use this link to do so https://github.com/signup?source=header-home 
+<br> 
 Install Git on your computer: you can use this link to do so https://git-scm.com/downloads 
 Open VS Code
 Search for Extension: You can do so by clicking Cntrl+Shift+X and searching for Github (for me it wasn't loading yet)

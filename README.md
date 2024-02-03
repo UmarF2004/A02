@@ -66,7 +66,7 @@ Part 2: **Glossary**:
   **Remote** a reference to a repository hosted on a server, such as GitHub
   <br><br>
   **Repository** : A repository in Github is a collection of files and folders, along with the version history of those files.
-<br><br><br
+<br><br>
 
   *SOURCES:*
   https://www.atlassian.com/git/tutorials/syncing/git-fetch
